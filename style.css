@@ -1,0 +1,14 @@
+body, html {
+  margin: 0;
+}
+nav {
+  max-height: 75px;
+  height: 100%;
+  max-width: 100%;
+  background-color: black;
+}
+.logo-img {
+  height: 100%;
+  max-width: 100px;
+  width: 100%;
+}
